@@ -34,5 +34,6 @@ pdfplumber — resume text extraction
 Demo
 
 🔗 Live app: https://interview-preparation-bot-pt.streamlit.app/ (replace with your deployed link)
+
 <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/bec67b7c-9b42-4846-9b06-a8255e826f73" />
 <img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/8702d642-1f06-40dc-bbae-24a909fc7cbb" />
